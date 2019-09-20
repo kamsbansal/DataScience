@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LInear_Regression.iml" filepath="$PROJECT_DIR$/.idea/LInear_Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data_Science.iml" filepath="$PROJECT_DIR$/.idea/Data_Science.iml" />
     </modules>
   </component>
 </project>
